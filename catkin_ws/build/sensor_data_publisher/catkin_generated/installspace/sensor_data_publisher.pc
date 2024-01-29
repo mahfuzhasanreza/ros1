@@ -1,0 +1,8 @@
+prefix=/home/mahfuz/catkin_ws/install
+
+Name: sensor_data_publisher
+Description: Description of sensor_data_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

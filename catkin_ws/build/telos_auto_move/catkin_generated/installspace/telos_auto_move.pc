@@ -1,0 +1,8 @@
+prefix=/home/mahfuz/catkin_ws/install
+
+Name: telos_auto_move
+Description: Description of telos_auto_move
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

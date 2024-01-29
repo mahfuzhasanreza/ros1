@@ -1,0 +1,8 @@
+prefix=/home/mahfuz/catkin_ws/devel
+
+Name: two_devices_communication
+Description: Description of two_devices_communication
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
