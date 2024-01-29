@@ -1,0 +1,2 @@
+arduino_data_show:move_robot:two_dev
+-DCATKIN_DEVEL_PREFIX=/home/mahfuz_hasan/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mahfuz_hasan/catkin_ws/install -G Unix Makefiles

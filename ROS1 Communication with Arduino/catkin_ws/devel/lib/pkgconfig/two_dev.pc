@@ -1,0 +1,8 @@
+prefix=/home/mahfuz_hasan/catkin_ws/devel
+
+Name: two_dev
+Description: Description of two_dev
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
